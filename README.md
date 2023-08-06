@@ -12,7 +12,5 @@ I'm a newcomer to coding,starting with a foundation in C,and currently,I'm explo
 # 📊 GitHub Stats:
 (https://github-readmestats.vercel.app/api?username=OldResolution&theme=dark&hide_border
 =false&include_all_commits=true&count_private=true)<br/>
-(https://github-readme-streakstats.herokuapp.com/?user=OldResolution&theme=dark&hide_border=fal
-se)<br/>
-[](https://github-readme-stats.vercel.app/api/toplangs/?username=OldResolution&theme=dark&hide_border=false&inclu
-de_all_commits=true&count_private=true&layout=compact)
+(https://github-readme-streakstats.herokuapp.com/?user=OldResolution&theme=dark&hide_border=false)<br/>
+[](https://github-readme-stats.vercel.app/api/toplangs/?username=OldResolution&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
