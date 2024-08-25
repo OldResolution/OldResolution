@@ -6,7 +6,7 @@ Mumbai University.</h3>
 write about yourself
 <br>
 Hi!!I'm Savin Johnson.
-I'm a second year pursuing Information Technology.
+I'm a third year pursuing Information Technology.
 I'm a newcomer to coding,starting with a foundation in C,and currently,I'm exploring Java,SQL and Haskell to broaden my programming skills 
 <br>
 # 📊 GitHub Stats:
